@@ -1,0 +1,63 @@
+﻿
+@{
+    Layout = null;
+}
+@*Context class'ım models klasöründe olduğu için using blogu ile belirtmeliyim*@
+@using MVC_KuzeyYeli.Models
+
+@model List<Urunler>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+   <table border="1">
+       <thead>
+           <tr>
+               <th>Ürün Adı:</th>
+               <th>Fiyat</th>
+               <th>Stok</th>
+               <th>KategoriID</th>
+               <th>TedarikciID</th>
+           </tr>
+       </thead>
+       <tbody>
+           @*
+           Yukarıda tanımladığım list tipinde ki modeli kullanıyorum    
+           *@
+           @foreach (Urunler item in Model)
+           {
+               <tr>
+                   <th>@item.UrunAdi</th>
+                   <td>@item.Fiyat</td>
+                   <td>@item.Stok</td>
+                   <td>@item.KategoriID</td>
+                   <td>@item.TedarikciID</td>
+               </tr>
+
+           }
+       </tbody>
+   </table>
+  <table border="1">
+      <thead>
+          <tr>
+              <th>Kategori Adi:</th>
+              <th>Tanim:</th>
+          </tr>
+      </thead>
+      <tbody>
+          @foreach (Kategoriler item in ViewBag.Kate)
+          {
+              <tr>
+                  <td>@item.KategoriAdi</td>
+                  <td>@item.Tanimi</td>
+              </tr>
+          }
+      </tbody>
+  </table>
+</body>
+</html>

@@ -1,0 +1,48 @@
+﻿
+@{
+    Layout = null;
+}
+@using MVC_KuzeyYeli.Models
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>UrunEkle</title>
+</head>
+
+<body>
+    <form action="/Urun/UrunEkle" method="post">  @*  form'un action özelliğine hangi controller da ki,hangi action metod çalıştırılacağı bildirilmeli**@
+
+
+
+        Ürün Adı: <input type="text" name="urunAdi" /> @*   Name alnlarına actionda metod da ki parametrelerin adları verilir **@
+        <br /><br />
+        Fiyat: <input type="number" name="fiyat" />
+        <br /><br />
+        Stok: <input type="number"  name="stok"/>
+        <br /><br />
+        Kategori: <select name="kId">
+
+            @foreach (Kategoriler item in ViewBag.kate)
+            {
+                <option value="@item.KategoriID">@item.KategoriAdi</option>
+
+            }
+
+        </select>
+        <br /><br />
+        Tedarikçi: <select name="tId">
+
+            @foreach (Tedarikciler item in ViewBag.teda)
+            {
+                <option value="@item.TedarikciID">@item.SirketAdi</option>
+            }
+        </select>
+
+        <a href="/Urun/Index">İptal</a>
+        
+        <input type="submit" value="Kaydet" />
+    </form>
+</body>
+</html>

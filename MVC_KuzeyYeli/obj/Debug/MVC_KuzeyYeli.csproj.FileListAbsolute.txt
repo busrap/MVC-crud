@@ -1,0 +1,53 @@
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\MVC_KuzeyYeli.dll.config
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\MVC_KuzeyYeli.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\MVC_KuzeyYeli.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\EntityFramework.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\System.Web.Helpers.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\System.Web.Mvc.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\System.Web.Razor.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\System.Web.Webpages.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\System.Web.Webpages.Razor.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\EntityFramework.xml
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\System.Web.Razor.xml
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\System.Web.Webpages.xml
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\System.Web.Webpages.Razor.xml
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\System.Web.Helpers.xml
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\System.Web.Mvc.xml
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\obj\Debug\MVC_KuzeyYeli.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\obj\Debug\MVC_KuzeyYeli.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\obj\Debug\MVC_KuzeyYeli.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\obj\Debug\MVC_KuzeyYeli.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\ASP.NET MVC\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\MVC_KuzeyYeli.dll.config
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\ASP.NET MVC\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\MVC_KuzeyYeli.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\ASP.NET MVC\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\MVC_KuzeyYeli.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\ASP.NET MVC\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\EntityFramework.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\ASP.NET MVC\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\ASP.NET MVC\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\ASP.NET MVC\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\ASP.NET MVC\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\System.Web.Helpers.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\ASP.NET MVC\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\System.Web.Mvc.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\ASP.NET MVC\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\System.Web.Razor.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\ASP.NET MVC\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\ASP.NET MVC\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\System.Web.Webpages.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\ASP.NET MVC\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\System.Web.Webpages.Razor.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\ASP.NET MVC\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\EntityFramework.xml
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\ASP.NET MVC\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\ASP.NET MVC\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\ASP.NET MVC\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\System.Web.Razor.xml
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\ASP.NET MVC\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\System.Web.Webpages.xml
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\ASP.NET MVC\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\ASP.NET MVC\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\System.Web.Webpages.Razor.xml
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\ASP.NET MVC\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\System.Web.Helpers.xml
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\ASP.NET MVC\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\bin\System.Web.Mvc.xml
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\ASP.NET MVC\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\obj\Debug\MVC_KuzeyYeli.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\ASP.NET MVC\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\obj\Debug\MVC_KuzeyYeli.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\ASP.NET MVC\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\obj\Debug\MVC_KuzeyYeli.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\ASP.NET MVC\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\obj\Debug\MVC_KuzeyYeli.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\ASP.NET MVC\MVC_KuzeyYeli_Ornek_2\MVC_KuzeyYeli\obj\Debug\MVC_KuzeyYeli.csproj.CopyComplete
